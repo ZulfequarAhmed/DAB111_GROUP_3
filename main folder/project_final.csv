@@ -1,0 +1,113 @@
+Rank,Book,Author(s),Original language,First published,Approximate sales,Genre
+1,A Tale of Two Cities,Charles Dickens,English,1859,200 million,Historical fiction
+2,The Little Prince (Le Petit Prince),Antoine de Saint-Exupéry,French,1943,200 million,"Fantasy, Children's fiction"
+3,Harry Potter and the Philosopher's Stone,J. K. Rowling,English,1997,120 million,"Fantasy, Children's fiction"
+4,And Then There Were None,Agatha Christie,English,1939,100 million,Mystery
+5,Dream of the Red Chamber (紅樓夢),Cao Xueqin,Chinese,1791,100 million,Family saga
+6,The Hobbit,J. R. R. Tolkien,English,1937,100 million,"Fantasy, Children's fiction"
+7,She: A History of Adventure,H. Rider Haggard,English,1887,83 million,Adventure
+8,Vardi Wala Gunda (वर्दी वाला गुंडा),Ved Prakash Sharma,Hindi,1992,80 million,Detective
+9,The Da Vinci Code,Dan Brown,English,2003,80 million,Mystery thriller
+10,Harry Potter and the Chamber of Secrets,J. K. Rowling,English,1998,77 million,Fantasy
+11,Harry Potter and the Prisoner of Azkaban,J. K. Rowling,English,1999,65 million,Fantasy
+12,Harry Potter and the Goblet of Fire,J. K. Rowling,English,2000,65 million,Fantasy
+13,Harry Potter and the Order of the Phoenix,J. K. Rowling,English,2003,65 million,Fantasy
+14,Harry Potter and the Half-Blood Prince,J. K. Rowling,English,2005,65 million,Fantasy
+15,Harry Potter and the Deathly Hallows,J. K. Rowling,English,2007,65 million,Fantasy
+16,The Alchemist (O Alquimista),Paulo Coelho,Portuguese,1988,65 million,Fantasy
+17,The Catcher in the Rye,J. D. Salinger,English,1951,65 million,Coming-of-age
+18,The Bridges of Madison County,Robert James Waller,English,1992,60 million,Romance
+19,One Hundred Years of Solitude (Cien años de soledad),Gabriel García Márquez,Spanish,1967,50 million,Magic realism
+20,Lolita,Vladimir Nabokov,English,1955,50 million,Novel
+21,Heidi,Johanna Spyri,German,1880,50 million,Children's fiction
+22,The Common Sense Book of Baby and Child Care,Benjamin Spock,English,1946,50 million,Manual
+23,Anne of Green Gables,Lucy Maud Montgomery,English,1908,50 million,Children's novel
+24,Black Beauty,Anna Sewell,English,1877,50 million,Children's literature
+25,The Name of the Rose (Il Nome della Rosa),Umberto Eco,Italian,1980,50 million,"Historical novel, mystery"
+26,The Eagle Has Landed,Jack Higgins,English,1975,50 million,"War, thriller"
+27,Watership Down,Richard Adams,English,1972,50 million,Fantasy
+28,The Hite Report,Shere Hite,English,1976,50 million,Sexology
+29,Charlotte's Web,E. B. White; illustrated by Garth Williams,English,1952,50 million,Children's fiction
+30,The Ginger Man,J. P. Donleavy,English,1955,50 million,Novel
+31,The Tale of Peter Rabbit,Beatrix Potter,English,1902,45 million,Children's Literature
+32,Jonathan Livingston Seagull,Richard Bach,English,1970,44 million,"Novella, Self-help"
+33,The Very Hungry Caterpillar,Eric Carle,English,1969,43 million,"Children's Literature, picture book"
+34,A Message to Garcia,Elbert Hubbard,English,1899,40 million,Essay/Literature
+35,To Kill a Mockingbird,Harper Lee,English,1960,40 million,"Southern Gothic, Bildungsroman"
+36,Flowers in the Attic,V. C. Andrews,English,1979,40 million,"Gothic horror, Family saga"
+37,Cosmos,Carl Sagan,English,1980,40 million,"Popular science, Anthropology, Astrophysics, Cosmology, Philosophy, History"
+38,Sophie's World (Sofies verden),Jostein Gaarder,Norwegian,1991,40 million,"Philosophical novel, Young adult"
+39,Angels & Demons,Dan Brown,English,2000,39 million,Mystery-thriller
+40,Kane and Abel,Jeffrey Archer,English,1979,37 million,Novel
+41,How the Steel Was Tempered (Как закалялась сталь),Nikolai Ostrovsky,Russian,1932,36.4 million copies in USSR,Socialist realist novel
+42,War and Peace (Война и мир),Leo Tolstoy,Russian,1869,36 million copies in Russia,Historical novel
+43,The Adventures of Pinocchio (Le avventure di Pinocchio),Carlo Collodi,Italian,1881,35 million,"Fantasy, Children's fiction"
+44,The Diary of Anne Frank (Het Achterhuis),Anne Frank,Dutch,1947,35 million,"Historical non-fiction, Autobiography, Memoir, Bildungsroman / Coming of Age, Jewish literature"
+45,Your Erroneous Zones,Wayne Dyer,English,1976,35 million,Self-help
+46,The Thorn Birds,Colleen McCullough,English,1977,33 million,Romantic family saga
+47,The Kite Runner,Khaled Hosseini,English,2003,31.5 million,"Bildungsroman, Historical fiction"
+48,Valley of the Dolls,Jacqueline Susann,English,1966,31 million,Novel
+49,How to Win Friends and Influence People,Dale Carnegie,English,1936,Over 30 million,Self-help
+50,The Great Gatsby,F. Scott Fitzgerald,English,1925,"30 million (""around"")","Novel, tragedy"
+51,Gone with the Wind,Margaret Mitchell,English,1936,30 million (est.),Historical fiction
+52,Rebecca,Daphne du Maurier,English,1938,30 million (est.),Gothic novel
+53,The Revolt of Mamie Stover,William Bradford Huie,English,1951,30 million,Fiction
+54,The Girl with the Dragon Tattoo (Män som hatar kvinnor),Stieg Larsson,Swedish,2005,30 million,Fiction
+55,The Lost Symbol,Dan Brown,English,2009,30 million,Fiction
+56,The Hunger Games,Suzanne Collins,English,2008,29 million in US,Young adult fiction
+57,James and the Giant Peach,Roald Dahl,English,1961,28 million,Children's novel
+58,The Young Guard (Молодая гвардия),Alexander Alexandrovich Fadeyev,Russian,1945,26 million copies in USSR,Young adult historical novel
+59,Who Moved My Cheese?,Spencer Johnson,English,1998,28,"Self-help, motivational, business fable, psychology, leadership, parable"
+60,A Brief History of Time,Stephen Hawking,English,1988,25 million,Popular science
+61,Paul et Virginie,Jacques-Henri Bernardin de Saint-Pierre,French,1788,25 million,Novel
+62,Lust for Life,Irving Stone,English,1934,25 million,Biographical novel
+63,The Wind in the Willows,Kenneth Grahame,English,1908,25 million,Children's literature
+64,The 7 Habits of Highly Effective People,Stephen R. Covey,English,1989,25 million,Self-help
+65,Totto-Chan: The Little Girl at the Window (窓ぎわのトットちゃん),Tetsuko Kuroyanagi,Japanese,1981,25 million ,Autobiographical novel
+66,Virgin Soil Upturned (Поднятая целина),Mikhail Sholokhov,Russian,1935,24 million copies in USSR,Novel
+67,The Celestine Prophecy,James Redfield,English,1993,23 million,New-age spiritual novel
+68,The Fault in Our Stars,John Green,English,2012,23 million,Young adult romantic novel
+69,The Girl on the Train,Paula Hawkins,English,2015,23 million,Thriller
+70,The Shack,William P. Young,English,2007,22.5 million,Novel
+71,Uncle Styopa (Дядя Стёпа),Sergey Mikhalkov,Russian,1936,21 million copies in USSR,"Children's Literature, picture book"
+72,The Godfather,Mario Puzo,English,1969,21 million,Crime novel
+73,Love Story,Erich Segal,English,1970,21 million,Romance novel
+74,Catching Fire,Suzanne Collins,English,2009,21 million in US,"Young Adult novel, adventure, dystopian, science fiction"
+75,Mockingjay,Suzanne Collins,English,2010,20 million in US,"Young Adult novel, adventure, war, science fiction, action thriller"
+76,Kitchen (キッチン),Banana Yoshimoto,Japanese,1988,20 million,Japanese novel
+77,Andromeda Nebula (Туманность Андромеды),Ivan Yefremov,Russian,1957,20 million,Science fiction novel
+78,Gone Girl,Gillian Flynn,English,2012,20 million,Crime thriller novel
+79,The Bermuda Triangle,Charles Berlitz,English,1974,20 million,
+80,Things Fall Apart,Chinua Achebe,English,1958,20 million,Novel
+81,Wolf Totem (狼图腾),Jiang Rong,Chinese,2004,20 million,Semi-autobiographical novel
+82,The Happy Hooker: My Own Story,Xaviera Hollander,English,1971,20 million,Memoir
+83,Jaws,Peter Benchley,English,1974,20 million,Thriller
+84,Love You Forever,Robert Munsch,English,1986,20 million,"Children's literature, picture book, fiction"
+85,The Women's Room,Marilyn French,English,1977,20 million,Feminist novel
+86,What to Expect When You're Expecting,Arlene Eisenberg and Heidi Murkoff,English,1984,20 million,Pregnancy guide
+87,Adventures of Huckleberry Finn,Mark Twain,English,1885,20 million,"Picaresque novel, Bildungsroman, satire, Robinsonade"
+88,"The Secret Diary of Adrian Mole, Aged 13¾",Sue Townsend,English,1982,20 million,Young adult novel
+89,Pride and Prejudice,Jane Austen,English,1813,20 million,"Classic regency novel, romance"
+90,Kon-Tiki: Across the Pacific in a Raft (Kon-Tiki ekspedisjonen),Thor Heyerdahl,Norwegian,1950,20 million,Travel literature
+91,The Good Soldier Švejk (Osudy dobrého vojáka Švejka za světové války),Jaroslav Hašek,Czech,1923,20 million (printed),Unfinished satirical dark comedy novel
+92,Where the Wild Things Are,Maurice Sendak,English,1963,20 million,Children's picture book
+93,The Power of Positive Thinking,Norman Vincent Peale,English,1952,20 million,Self-help
+94,The Secret,Rhonda Byrne,English,2006,20 million,Self-help
+95,Fear of Flying,Erica Jong,English,1973,20 million,Romantic novel
+96,Dune,Frank Herbert,English,1965,20 million,Science fiction novel
+97,Charlie and the Chocolate Factory,Roald Dahl,English,1964,20 million,Children's fantasy novel
+98,The Naked Ape,Desmond Morris,English,1968,20 million,"Social Science, Anthropology, Psychology"
+99,Where the Crawdads Sing,Delia Owens,English,2018,18 million,Coming-of-age Murder mystery
+100,Matilda,Roald Dahl,English,1988,17 million,Children's Literature
+101,The Book Thief,Markus Zusak,English,2005,16 million,Young Adult Fiction
+102,The Horse Whisperer,Nicholas Evans,English,1995,16 million,
+103,Goodnight Moon,Margaret Wise Brown,English,1947,16 million,Children's Literature
+104,The Neverending Story (Die unendliche Geschichte),Michael Ende,German,1979,16 million,Children's Literature
+105,All the Light We Cannot See,Anthony Doerr,English,2014,15.3 million,"Historical fiction, war novel"
+106,Fifty Shades of Grey,E. L. James,English,2011,15.2 million in the U.S.,Erotica
+107,The Outsiders,S. E. Hinton,English,1967,15 million,
+108,Guess How Much I Love You,Sam McBratney,English,1994,15 million,
+109,Shōgun,James Clavell,English,1975,15 million,
+110,The Poky Little Puppy,Janette Sebring Lowrey,English,1942,15 million,
+111,The Pillars of the Earth,Ken Follett,English,1989,15 million,Historical fiction
+112,Perfume (Das Parfum),Patrick Süskind,German,1985,15 million,
